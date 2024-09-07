@@ -1,7 +1,7 @@
 # New project
 
 This project was created from local system.
-created by Arjun singh
+Created by Arjun singh.
 
 # pet adoption 
 
